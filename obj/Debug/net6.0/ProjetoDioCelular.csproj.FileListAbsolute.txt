@@ -1,0 +1,15 @@
+C:\Users\Tacila\Desktop\ProjetoDioCelular\bin\Debug\net6.0\ProjetoDioCelular.exe
+C:\Users\Tacila\Desktop\ProjetoDioCelular\bin\Debug\net6.0\ProjetoDioCelular.deps.json
+C:\Users\Tacila\Desktop\ProjetoDioCelular\bin\Debug\net6.0\ProjetoDioCelular.runtimeconfig.json
+C:\Users\Tacila\Desktop\ProjetoDioCelular\bin\Debug\net6.0\ProjetoDioCelular.dll
+C:\Users\Tacila\Desktop\ProjetoDioCelular\bin\Debug\net6.0\ProjetoDioCelular.pdb
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ProjetoDioCelular.csproj.AssemblyReference.cache
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ProjetoDioCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ProjetoDioCelular.AssemblyInfoInputs.cache
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ProjetoDioCelular.AssemblyInfo.cs
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ProjetoDioCelular.csproj.CoreCompileInputs.cache
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ProjetoDioCelular.dll
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\refint\ProjetoDioCelular.dll
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ProjetoDioCelular.pdb
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ProjetoDioCelular.genruntimeconfig.cache
+C:\Users\Tacila\Desktop\ProjetoDioCelular\obj\Debug\net6.0\ref\ProjetoDioCelular.dll
